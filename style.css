@@ -1,0 +1,205 @@
+body
+{
+	background-color: #fff;
+	color: #333;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+}
+
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.rectangle
+{
+	width: 100%;
+	text-align: center;
+	margin: 10px;
+}
+
+#logo
+{
+	width: 600px;
+	float: left;
+	text-align: left;
+	font-size: 72px;
+	font-weight: 700;
+	margin-top: 10px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+#timer
+{
+	float: left;
+	font-size: 38px;
+	font-weight: 700;
+	margin-top: 35px;
+	font-family: 'Quicksand', sans-serif;
+	color: #333;
+}
+
+.square
+{
+	width: 500px;
+	float: left;
+	color: #fff;
+}
+
+.tile {
+	height: 15px;
+}
+
+.tile1
+{
+	width: 230px;
+	height: 142px;
+	background-color: #666;
+	text-align: center;
+	float: left;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+.tile1:hover
+{
+	background-color: #555;
+}
+
+.tile2
+{
+	width: 230px;
+	height: 142px;
+	background-color: #999ccc;
+	text-align: center;
+	float: left;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+.tile2:hover
+{
+	background-color: #888bbb;
+}
+
+.tile3
+{
+	width: 230px;
+	height: 142px;
+	background-color: #457fde;
+	text-align: center;
+	float: left;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+.tile3:hover
+{
+	background-color: #346ecd;
+}
+
+.tile4
+{
+	width: 420px;
+	height: 82px;
+	background-color: #5e4899;
+	text-align: center;
+	float: left;
+	margin: 10px;
+	padding: 30px;
+	line-height: 130%;
+	font-size: 22px;
+	border-radius: 10px;
+}
+
+.tile5
+{
+	width: 440px;
+	height: 264px;
+	background-color: #474747;
+	text-align: justify;
+	float: left;
+	margin: 10px;
+	padding: 20px;
+	border-radius: 10px;
+}
+
+.tile-social {
+	width: 105px;
+	height: 142px;
+	margin: 10px;
+	text-align: center;
+	border-radius: 10px;
+}
+
+.fb
+{
+	background-color: #2b4159;
+	float: left;
+}
+
+.fb:hover
+{
+	background-color: #1a3148;
+}
+
+.ins
+{
+	background-color: #bd59ac;
+	float: left;
+}
+
+.ins:hover
+{
+	background-color: #974096;
+}
+
+.sp
+{
+	background-color: #32a852;
+	float: left;
+}
+
+.sp:hover
+{
+	background-color: #216f36;
+}
+
+.yt
+{
+	width: 105px;
+	background-color: #e8201a;
+	float: left;
+	height: 142px;
+	margin: 10px;
+	text-align: center;
+	border-radius: 10px;
+}
+
+.yt:hover
+{
+	background-color: #ab100a;
+}
+
+a.tilelink
+{
+	color: #fff;
+	text-decoration: none;
+	display: block;
+	width: 230px;
+	height: 142px;
+}
+
+a.tilelinkhtml5
+{
+	color: #fff;
+	text-decoration: none;
+}
+
+a.tilelinkhtml5-logo
+{
+	color: #333;
+	text-decoration: none;
+}
